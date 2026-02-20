@@ -2,7 +2,7 @@
 
 A modern and interactive To-Do List built with pure HTML, CSS, and JavaScript.
 
-[App Screenshot](screenshotToDOList.png)
+
 
 
 ## ✨ Features
@@ -51,5 +51,6 @@ project/
 - Animations
 ## 📸 Preview
 
-!
+[App Screenshot](screenshotToDOList.png)
+
 
